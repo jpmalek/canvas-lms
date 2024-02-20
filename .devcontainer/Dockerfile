@@ -1,1 +1,1 @@
-FROM instructure/canvas-lms:latest
+FROM instructure/canvas-lms
